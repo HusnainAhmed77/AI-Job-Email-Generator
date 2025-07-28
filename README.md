@@ -14,6 +14,22 @@ A smart, local AI tool to generate personalized cold emails for job applications
 
 ---
 
+💡 Sample Input
+
+-Job Title: Machine Learning Intern  
+-Company: DeepMind  
+-Skills: Python, Deep Learning, Streamlit, GPT, NLP, LangChain
+
+
+✍️ Generated Output
+
+-Subject: Enthusiastic ML Intern Applicant for DeepMind
+    Dear Hiring Team,
+    I’m writing to express my deep interest in the Machine Learning Internship at     DeepMind. With hands-on experience in Python, GPT-based NLP models, and           LangChain, I’ve built real-world AI applications using deep learning and          Streamlit. I'm passionate about advancing research that has real impact — and     DeepMind’s work inspires me.
+    I’d love the opportunity to contribute to your mission.
+    Warm regards,
+    Your Name
+    
 ## 🛠 Tech Stack
 
 - Python 🐍
@@ -27,7 +43,7 @@ A smart, local AI tool to generate personalized cold emails for job applications
 ## 🧪 How to Run
 
 ### 1. Clone the repo
-```bash
+
 git clone https://github.com/yourusername/job-email-generator.git
 cd job-email-generator
 

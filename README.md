@@ -44,7 +44,7 @@ A smart, local AI tool to generate personalized cold emails for job applications
 
 ### 1. Clone the repo
 
-git clone https://github.com/yourusername/job-email-generator.git
+git clone https://github.com/HusnainAhmed77/AI-Job-Email-Generator
 cd job-email-generator
 
 2. Install dependencies
